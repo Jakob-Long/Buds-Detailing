@@ -1,6 +1,16 @@
 /*******************************/
 /********* General CSS *********/
 /*******************************/
+.galleryButton {
+    width: 72%;
+    height: 70px;
+}
+
+.indexImage {
+    width:  10px;
+    height: 10px;
+}
+
 body {
     color: #444444;
     font-weight: 400;
